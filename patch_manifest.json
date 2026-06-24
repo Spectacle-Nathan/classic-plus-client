@@ -6,49 +6,49 @@
             "size": 5472939,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/patches/patch-enUS-Z.MPQ"
         },
-        "Interface/AddOns/GunslingerTalents.zip": {
+        "Interface/AddOns/.patcher_cache/GunslingerTalents.zip": {
             "hash": "6c8dca4c6b9c2bcf6d1ae616fef6122280e30ea847fbe0390e15420f3ff1d91a",
             "size": 4399,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/addons/GunslingerTalents.zip",
             "unzip_path": "Interface/AddOns"
         },
-        "Interface/AddOns/InvasionsSystem.zip": {
+        "Interface/AddOns/.patcher_cache/InvasionsSystem.zip": {
             "hash": "b126abcf2655d305e4076895782c229faeda2557e2e7d960c66929ae535f2f44",
             "size": 4985,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/addons/InvasionsSystem.zip",
             "unzip_path": "Interface/AddOns"
         },
-        "Interface/AddOns/MapVisualizer.zip": {
+        "Interface/AddOns/.patcher_cache/MapVisualizer.zip": {
             "hash": "5c38024657c473ad73931700cc3698250c25b082f2a58d4e726e81b380e3b25d",
             "size": 4329,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/addons/MapVisualizer.zip",
             "unzip_path": "Interface/AddOns"
         },
-        "Interface/AddOns/NemesisHierarchy.zip": {
+        "Interface/AddOns/.patcher_cache/NemesisHierarchy.zip": {
             "hash": "43026ab792583cc29aa53e607fea6e6126b4dc0cd64fc1c3f679e40acabd1c8a",
             "size": 4869,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/addons/NemesisHierarchy.zip",
             "unzip_path": "Interface/AddOns"
         },
-        "Interface/AddOns/NemesisSystem.zip": {
+        "Interface/AddOns/.patcher_cache/NemesisSystem.zip": {
             "hash": "ae0007de37fbc8dd3d8cad8f1416bd2dacecf2539959867697831d9bb60bab68",
             "size": 3824,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/addons/NemesisSystem.zip",
             "unzip_path": "Interface/AddOns"
         },
-        "Interface/AddOns/POECraft.zip": {
+        "Interface/AddOns/.patcher_cache/POECraft.zip": {
             "hash": "fe3a94ec24fca06c758b4b54f7ecb3d0700798845f20d47fef815e6313981b6b",
             "size": 4358,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/addons/POECraft.zip",
             "unzip_path": "Interface/AddOns"
         },
-        "Interface/AddOns/SpellslingerTalents.zip": {
+        "Interface/AddOns/.patcher_cache/SpellslingerTalents.zip": {
             "hash": "edc3c3340dfc2f85bc4ab51789eaf4a2ee31b810b797fec5f0e5bbbf5eaf60f4",
             "size": 7712,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/addons/SpellslingerTalents.zip",
             "unzip_path": "Interface/AddOns"
         },
-        "Interface/AddOns/WantedBoard.zip": {
+        "Interface/AddOns/.patcher_cache/WantedBoard.zip": {
             "hash": "045636a07132194f7f7b18528c420a222a3fa8fcbec01e835beb34e6fc3f22e3",
             "size": 5300,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/addons/WantedBoard.zip",
