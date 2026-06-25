@@ -2,8 +2,8 @@
     "realmlist": "craig-superman.with.playit.plus:1272",
     "files": {
         "Data/enUS/patch-enUS-Z.MPQ": {
-            "hash": "15db203f9ebe12c488a442f87996a7fd96a454b9e8001084c35a7874f37ac341",
-            "size": 5472939,
+            "hash": "16a01bb9ee6b128de4c9585076d07fdd5e1462573fadd36a4ff3d52fa09707b4",
+            "size": 5515801,
             "url": "https://raw.githubusercontent.com/Spectacle-Nathan/classic-plus-client/main/patches/patch-enUS-Z.MPQ"
         },
         "Interface/AddOns/.patcher_cache/GunslingerTalents.zip": {
